@@ -1,0 +1,442 @@
+School_name,Longitude,Latitude,Cluster
+Five Islands Secondary College,150.913541,-34.489274,1
+Dubbo College Senior Campus,148.6285578,-32.23506778,1
+Georges River College Oatley Senior Campus,151.081391,-33.977001,2
+Great Lakes College Senior Campus,152.4937905,-32.16071754,1
+Wyndham College,150.8795746,-33.72608922,1
+Bankstown Senior College,151.022569,-33.929121,2
+Coffs Harbour Senior College,153.102656,-30.330173,0
+Callaghan College Jesmond Senior Campus,151.696335,-32.900971,1
+Northern Beaches Secondary College Freshwater Senior Campus,151.279975,-33.76751,0
+Sydney Secondary College Blackwattle Bay Campus,151.188357,-33.875142,0
+Brisbane Water Secondary College Woy Woy Campus,151.323582,-33.492687,1
+St Marys Senior High School,150.770024,-33.763119,0
+Moree Secondary College,149.842344,-29.46645,3
+Chifley College Senior Campus,150.829855,-33.769305,1
+Sydney Girls High School,151.220371,-33.894191,0
+Moorefield Girls High School,151.137739,-33.968311,2
+Kogarah High School,151.134227,-33.961161,2
+Alexandria Park Community School,151.196518,-33.901164,0
+Sydney Distance Education High School,151.22098,-33.871053,1
+Dulwich High School of Visual Arts and Design,151.144871,-33.904038,0
+James Cook Boys High School,151.13709,-33.96648,2
+Canterbury Boys High School,151.123884,-33.904178,2
+St George Girls High School,151.136035,-33.959073,0
+Sydney Boys High School,151.218904,-33.892165,0
+Sydney Technical High School,151.114342,-33.963075,0
+Conservatorium High School,151.21408,-33.863407,0
+Burwood Girls High School,151.113036,-33.875318,0
+Randwick Boys High School,151.238771,-33.924712,0
+Randwick Girls High School,151.23944,-33.921832,0
+Kingsgrove North High School,151.097628,-33.93398,2
+Port Hacking High School,151.097257,-34.032395,0
+Blakehurst High School,151.11324,-33.980406,0
+Caringbah High School,151.120399,-34.034901,0
+Heathcote High School,151.01441,-34.082295,1
+Matraville Sports High School,151.244548,-33.964747,1
+Cronulla High School,151.159056,-34.038439,0
+J J Cahill Memorial High School,151.201835,-33.927435,2
+Lucas Heights Community School,151.004817,-34.035778,0
+Gymea Technology High School,151.08338,-34.029985,0
+Endeavour Sports High School,151.117251,-34.030083,0
+Engadine High School,151.019341,-34.062141,0
+Woolooware High School,151.145595,-34.039811,0
+Kirrawee High School,151.073475,-34.04348,0
+Sylvania High School,151.103529,-34.017367,0
+Fort Street High School,151.1529,-33.890196,0
+Tempe High School,151.16094,-33.91975,0
+Newtown High School of Performing Arts,151.178338,-33.899534,0
+Marrickville High School,151.155995,-33.905781,0
+South Sydney High School,151.234397,-33.944154,0
+Rose Bay Secondary College,151.276121,-33.878347,0
+Menai High School,151.023851,-34.002904,0
+Canterbury Girls High School,151.122631,-33.907264,0
+Ashfield Boys High School,151.129219,-33.889547,0
+The Jannali High School,151.061927,-34.021612,0
+Kingsgrove High School,151.101653,-33.948519,2
+Willoughby Girls High School,151.199957,-33.803128,0
+Asquith Girls High School,151.11275,-33.689716,0
+Asquith Boys High School,151.103016,-33.692276,0
+Pennant Hills High School,151.061087,-33.733692,0
+Narrabeen Sports High School,151.298401,-33.700941,0
+Northern Beaches Secondary College Manly Campus,151.281355,-33.762388,0
+Northern Beaches Secondary College Balgowlah Boys Campus,151.254607,-33.796405,0
+Hornsby Girls High School,151.101083,-33.706627,0
+North Sydney Boys High School,151.207734,-33.829336,0
+North Sydney Girls High School,151.203447,-33.830244,0
+Hunters Hill High School,151.148509,-33.832696,0
+Cheltenham Girls High School,151.074096,-33.75627,0
+Normanhurst Boys High School,151.101466,-33.721475,0
+Marsden High School,151.092237,-33.812981,0
+Chatswood High School,151.175324,-33.800013,0
+Riverside Girls High School,151.141467,-33.840079,0
+Mosman High School,151.243425,-33.829677,0
+The Forest High School,151.2298,-33.750298,0
+Pittwater High School,151.302664,-33.668259,0
+Castle Hill High School,150.999534,-33.726635,0
+St Ives High School,151.167078,-33.740147,0
+Ryde Secondary College,151.119176,-33.813316,0
+Ku-ring-gai High School,151.153809,-33.690973,0
+Killarney Heights High School,151.215215,-33.771925,0
+Carlingford High School,151.050764,-33.765412,0
+Barrenjoey High School,151.333926,-33.63117,0
+Killara High School,151.174102,-33.756575,0
+Davidson High School,151.205465,-33.74468,0
+Galston High School,151.042348,-33.660931,0
+Muirfield High School,151.022294,-33.764695,0
+Northern Beaches Secondary College Cromer Campus,151.284453,-33.737765,0
+Cherrybrook Technology High School,151.037583,-33.719852,0
+Northern Beaches Secondary College Mackellar Girls Campus,151.272401,-33.782109,0
+Epping Boys High School,151.099645,-33.769453,0
+Turramurra High School,151.114786,-33.757307,0
+East Hills Girls Technology High School,150.992016,-33.956866,2
+Cabramatta High School,150.928913,-33.901422,2
+Birrong Boys High School,151.025024,-33.894047,2
+Merrylands High School,150.96957,-33.840847,2
+Sir Joseph Banks High School,151.020907,-33.939698,2
+Ingleburn High School,150.87152,-34.005121,2
+Mount Annan High School,150.760739,-34.057371,1
+Picnic Point High School,151.011457,-33.964344,0
+Condell Park High School,151.001755,-33.923579,2
+Holroyd High School,150.951137,-33.832906,2
+Granville South Creative and Performing Arts High School,150.997598,-33.860626,2
+St Johns Park High School,150.892002,-33.873073,2
+Thomas Reddall High School,150.801488,-34.082029,1
+Belmore Boys High School,151.085575,-33.910796,2
+Granville Boys High School,151.008817,-33.834618,2
+Birrong Girls High School,151.025708,-33.88948,2
+Wiley Park Girls High School,151.066545,-33.924357,2
+Hurlstone Agricultural High School,150.893629,-33.970383,0
+Homebush Boys High School,151.077132,-33.866059,0
+Strathfield Girls High School,151.084571,-33.873901,0
+Liverpool Girls High School,150.931475,-33.917986,2
+Campbelltown Performing Arts High School,150.822959,-34.060108,1
+Punchbowl Boys High School,151.052954,-33.924027,2
+Liverpool Boys High School,150.93154,-33.917157,2
+East Hills Boys High School,150.994115,-33.957229,2
+Picton High School,150.608418,-34.194467,1
+Camden High School,150.6777325,-34.0793994,1
+Bass High School,150.989379,-33.897941,2
+Strathfield South High School,151.071235,-33.885382,2
+Auburn Girls High School,151.033681,-33.84288,2
+Bankstown Girls High School,151.032138,-33.920754,2
+Beverly Hills Girls High School,151.078627,-33.948461,2
+Bonnyrigg High School,150.893167,-33.894982,2
+Sefton High School,151.008799,-33.879538,2
+Chester Hill High School,150.995411,-33.874032,2
+Cecil Hills High School,150.852043,-33.895704,2
+John Edmondson High School,150.843226,-33.946,2
+Westfields Sports High School,150.920432,-33.866933,2
+Canley Vale High School,150.951658,-33.884644,2
+Miller High School,150.881139,-33.923589,2
+Ashcroft High School,150.897272,-33.920414,2
+Lurnea High School,150.896043,-33.941743,2
+Fairvale High School,150.929459,-33.873614,2
+James Busby High School,150.874039,-33.908964,2
+Hoxton Park High School,150.86162,-33.92,2
+Airds High School,150.827109,-34.086883,1
+James Meehan High School,150.892287,-33.988351,1
+Moorebank High School,150.958685,-33.925772,2
+Elderslie High School,150.715295,-34.052603,1
+Leumeah High School,150.84737,-34.054339,1
+Concord High School,151.109271,-33.864062,0
+Fairfield High School,150.958647,-33.865214,2
+Sarah Redfern High School,150.85088,-34.026782,2
+Macquarie Fields High School,150.884901,-33.996784,0
+Prairiewood High School,150.901709,-33.85948,2
+Holsworthy High School,150.95232,-33.955528,1
+Eagle Vale High School,150.803543,-34.039942,2
+Ambarvale High School,150.801938,-34.099984,1
+Robert Townson High School,150.817995,-34.01533,2
+Bossley Park High School,150.875379,-33.870958,2
+Elizabeth Macarthur High School,150.740091,-34.057072,0
+Casula High School,150.8937,-33.95123,2
+Katoomba High School,150.314399,-33.727402,0
+Blacktown Girls High School,150.910792,-33.761976,0
+Seven Hills High School,150.94487,-33.762705,1
+Blacktown Boys High School,150.912543,-33.762057,0
+Glenwood High School,150.937429,-33.733029,0
+Rouse Hill High School,150.9317,-33.6864,0
+Nepean Creative and Performing Arts High School,150.668882,-33.747745,1
+Greystanes High School,150.940352,-33.812495,2
+Doonside High School,150.874186,-33.754708,1
+Mitchell High School,150.915971,-33.784795,2
+Evans High School,150.889725,-33.786512,2
+Kingswood High School,150.715263,-33.770416,1
+Baulkham Hills High School,150.991499,-33.750227,0
+Kellyville High School,150.969921,-33.707777,0
+Girraween High School,150.944577,-33.79989,0
+Crestwood High School,150.975672,-33.743607,0
+Jamison High School,150.698118,-33.775335,1
+Hawkesbury High School,150.798039,-33.559541,1
+St Clair High School,150.786794,-33.794217,1
+Macarthur Girls High School,151.012499,-33.813086,0
+Arthur Phillip High School,151.007364,-33.816386,2
+Parramatta High School,150.996083,-33.817883,0
+Penrith High School,150.706537,-33.756721,0
+Richmond High School,150.746715,-33.600535,1
+Northmead Creative and Performing Arts High School,150.999661,-33.788092,0
+Glenmore Park High School,150.672564,-33.791012,1
+Pendle Hill High School,150.962194,-33.793877,2
+Windsor High School,150.833554,-33.618653,1
+The Hills Sports High School,150.938834,-33.782184,1
+Colyton High School,150.797336,-33.777602,1
+Springwood High School,150.550608,-33.685057,1
+Model Farms High School,150.971394,-33.76943,0
+Plumpton High School,150.835498,-33.748126,2
+Cambridge Park High School,150.732892,-33.752164,1
+Blaxland High School,150.60859,-33.754247,0
+Colo High School,150.708204,-33.569359,1
+Chifley College Bidwill Campus,150.827271,-33.733854,1
+Winmalee High School,150.615138,-33.676047,0
+Cranebrook High School,150.709812,-33.721662,1
+Erskine Park High School,150.802962,-33.807899,1
+Quakers Hill High School,150.89645,-33.729813,0
+Cumberland High School,151.036898,-33.785205,0
+Riverstone High School,150.875744,-33.678883,1
+Rooty Hill High School,150.838148,-33.770841,2
+James Ruse Agricultural High School,151.043204,-33.780624,0
+Merriwa Central School,150.352867,-32.145113,1
+Maitland Grossmann High School,151.591504,-32.743453,1
+Kurri Kurri High School,151.486294,-32.810142,1
+Hunter Sports High School,151.691142,-32.985494,1
+Wadalba Community School,151.467432,-33.264769,1
+Whitebridge High School,151.712234,-32.972025,1
+Scone High School,150.873111,-32.05813,1
+West Wallsend High School,151.581083,-32.910565,1
+Francis Greenway High School,151.66077,-32.79698,1
+Henry Kendall High School,151.334496,-33.420757,0
+Dungog High School,151.750417,-32.396819,1
+Gorokan High School,151.508233,-33.242182,1
+Terrigal High School,151.429342,-33.442167,0
+Mount View High School,151.333246,-32.827955,1
+Kincumber High School,151.382516,-33.464894,1
+Narara Valley High School,151.334064,-33.398422,1
+Cardiff High School,151.670299,-32.951363,1
+Toronto High School,151.582022,-33.008794,1
+Cessnock High School,151.368528,-32.842954,1
+Gosford High School,151.341388,-33.417183,0
+Maitland High School,151.597333,-32.747365,1
+Muswellbrook High School,150.897592,-32.268737,1
+Wyong High School,151.417918,-33.281328,1
+Singleton High School,151.177593,-32.569684,1
+Belmont High School,151.660114,-33.027147,1
+Lake Macquarie High School,151.613863,-32.975553,1
+Hunter River High School,151.732798,-32.781835,1
+Lake Munmorah High School,151.573699,-33.189743,1
+Kariong Mountains High School,151.296076,-33.43039,1
+Swansea High School,151.639823,-33.104232,1
+Erina High School,151.381503,-33.440279,1
+Morisset High School,151.486629,-33.104657,1
+Kotara High School,151.706868,-32.947137,0
+Warners Bay High School,151.653691,-32.967703,0
+Tuggerah Lakes Secondary College The Entrance Campus,151.476613,-33.371256,1
+Glendale Technology High School,151.642938,-32.925928,1
+Lambton High School,151.722034,-32.917918,0
+Tomaree High School,152.1122,-32.735884,1
+Newcastle High School,151.758378,-32.931677,0
+Merewether High School,151.734749,-32.929684,0
+Northlakes High School,151.513395,-33.216762,1
+Irrawang High School,151.766861,-32.761513,1
+Rutherford Technology High School,151.531424,-32.711235,1
+Hunter School of Performing Arts,151.727614,-32.924826,0
+Evans River Community School,153.424683,-29.113492,1
+Lord Howe Island Central School,159.069032,-31.530072,0
+Bonalbo Central School,152.623959,-28.735472,1
+Bowraville Central School,152.853898,-30.645289,1
+Bulahdelah Central School,152.211848,-32.413374,1
+Lisarow High School,151.370354,-33.385327,1
+Coffs Harbour High School,153.135846,-30.305319,1
+Murwillumbah High School,153.391648,-28.336032,1
+Taree High School,152.46386,-31.909866,1
+Casino High School,153.0437,-28.845167,1
+Macksville High School,152.91701,-30.714945,1
+"The Rivers Secondary College, Richmond River High Campus",153.296953,-28.820846,1
+Bellingen High School,152.908442,-30.455123,1
+Camden Haven High School,152.73608,-31.639394,1
+Banora Point High School,153.525324,-28.215457,1
+Gloucester High School,151.959556,-32.016661,1
+Chatham High School,152.480875,-31.89577,3
+Dorrigo High School,152.705492,-30.339222,1
+"The Rivers Secondary College, Kadina High Campus",153.33864,-28.81788,1
+Toormina High School,153.084399,-30.351016,1
+Woolgoolga High School,153.190225,-30.100448,1
+Woodenbong Central School,152.610148,-28.389728,3
+Kingscliff High School,153.570474,-28.266568,1
+Ashford Central School,151.094638,-29.321262,3
+Nimbin Central School,153.220891,-28.595871,1
+Emmaville Central School,151.601669,-29.446152,1
+Grafton High School,152.932509,-29.682105,1
+Kempsey High School,152.824202,-31.06806,3
+"The Rivers Secondary College, Lismore High Campus",153.297294,-28.820823,1
+Mungindi Central School,148.99085,-28.9802,3
+Wauchope High School,152.731158,-31.450894,1
+Kyogle High School,153.001529,-28.625772,1
+Mullumbimby High School,153.494604,-28.558569,1
+Ballina Coast High School,153.565058,-28.866603,1
+Maclean High School,153.20149,-29.46644,1
+"Hastings Secondary College, Port Macquarie Campus",152.92069,-31.433295,1
+Tweed River High School,153.541012,-28.195651,1
+Wingham High School,152.382261,-31.867397,1
+South Grafton High School,152.929362,-29.714229,1
+Orara High School,153.112879,-30.282811,1
+"Hastings Secondary College, Westport Campus",152.895386,-31.435345,1
+Melville High School,152.825104,-31.09002,1
+Byron Bay High School,153.616057,-28.667572,0
+Alstonville High School,153.433756,-28.838812,1
+Nambucca Heads High School,152.984614,-30.640826,1
+Barraba Central School,150.599478,-30.38239,1
+Uralla Central School,151.494437,-30.641511,1
+Inverell High School,151.110782,-29.765729,1
+Narrabri High School,149.78267,-30.335548,1
+Quirindi High School,150.680087,-31.501631,1
+Gunnedah High School,150.248768,-30.982637,3
+Wee Waa High School,149.442286,-30.22268,3
+Oxley High School,150.939078,-31.077903,1
+Collarenebri Central School,148.578086,-29.543823,3
+Balranald Central School,143.564769,-34.635575,1
+Guyra Central School,151.677369,-30.222577,1
+Walcha Central School,151.604194,-30.981805,1
+Lake Cargelligo Central School,146.373966,-33.294836,1
+Lockhart Central School,146.714747,-35.222753,1
+Oaklands Central School,146.171768,-35.552669,1
+The Rock Central School,147.115239,-35.266335,1
+Manilla Central School,150.728435,-30.750947,1
+Farrer Memorial Agricultural High School,150.979996,-31.138453,1
+Glen Innes High School,151.742487,-29.744294,1
+Tamworth High School,150.916936,-31.105768,3
+Bingara Central School,150.56725,-29.866705,1
+Boggabilla Central School,150.361593,-28.616586,3
+Bundarra Central School,151.077625,-30.168353,1
+Warialda High School,150.574806,-29.547875,1
+Peel High School,150.89299,-31.099764,3
+Ardlethan Central School,146.900557,-34.354098,1
+Ariah Park Central School,147.218018,-34.346925,1
+Barellan Central School,146.571928,-34.287799,1
+Batlow Technology School,148.146548,-35.523007,1
+Coleambally Central School,145.884407,-34.804177,1
+Coolamon Central School,147.201398,-34.811904,1
+Albury High School,146.915442,-36.072846,1
+Hay War Memorial High School,144.839262,-34.504747,1
+Hillston Central School,145.54026,-33.479904,1
+Junee High School,147.592765,-34.869115,1
+Cootamundra High School,148.017191,-34.635419,1
+Deniliquin High School,144.961269,-35.53627,1
+James Fallon High School,146.928971,-36.060244,1
+Finley High School,145.571271,-35.640413,1
+West Wyalong High School,147.202014,-33.915793,1
+Mount Austin High School,147.353865,-35.141908,3
+Gundagai High School,148.099421,-35.057144,1
+Barham High School,144.132055,-35.623,1
+Kooringal High School,147.381528,-35.142886,1
+Billabong High School,147.043931,-35.660874,1
+Murray High School,146.946383,-36.035173,1
+Boorowa Central School,148.726108,-34.436712,1
+Braidwood Central School,149.798888,-35.440595,1
+Tenterfield High School,152.016829,-29.053727,1
+Macintyre High School,151.129187,-29.767546,1
+Wagga Wagga High School,147.364366,-35.124438,1
+Yanco Agricultural High School,146.383678,-34.632239,1
+Young High School,148.291705,-34.317142,1
+Leeton High School,146.405976,-34.54684,1
+Narrandera High School,146.567177,-34.74421,1
+Temora High School,147.539525,-34.441897,1
+Corowa High School,146.381577,-35.993008,1
+Murrumburrah High School,148.369808,-34.559162,1
+Tumut High School,148.219291,-35.312212,1
+Tumbarumba High School,148.018245,-35.783098,1
+Tooleybuc Central School,143.338058,-35.026575,1
+Tullibigeal Central School,146.722678,-33.422886,1
+Ungarie Central School,146.977953,-33.637104,1
+Goulburn High School,149.711241,-34.746861,1
+Wollongong High School of the Performing Arts,150.889188,-34.406432,0
+Bega High School,149.838766,-36.678459,1
+Kiama High School,150.847197,-34.68066,0
+Corrimal High School,150.91071,-34.374243,1
+Monaro High School,149.134021,-36.216655,1
+Nowra High School,150.609361,-34.872966,1
+Dapto High School,150.785868,-34.499054,1
+Illawarra Sports High School,150.853331,-34.480849,1
+Queanbeyan High School,149.220484,-35.353243,1
+Yass High School,148.911066,-34.835474,1
+Moruya High School,150.08015,-35.920195,1
+Woonona High School,150.910102,-34.345037,1
+Bomaderry High School,150.602725,-34.844038,1
+Crookwell High School,149.466967,-34.452754,1
+Mulwaree High School,149.730169,-34.728245,1
+Warrawong High School,150.875178,-34.480163,1
+Kanahooka High School,150.805362,-34.494652,1
+Karabar High School,149.224822,-35.365337,1
+Narooma High School,150.128648,-36.235506,1
+Smiths Hill High School,150.89561,-34.418889,0
+Shoalhaven High School,150.610096,-34.897296,1
+Batemans Bay High School,150.194447,-35.729246,1
+Vincentia High School,150.662803,-35.077698,1
+Oak Flats High School,150.83408,-34.559745,1
+Baradine Central School,149.070198,-30.950736,3
+Binnaway Central School,149.374951,-31.552793,3
+Brewarrina Central School,146.859088,-29.963669,3
+Coolah Central School,149.723624,-31.821024,1
+Dunedoo Central School,149.392212,-32.018308,1
+Ivanhoe Central School,144.300978,-32.898531,3
+Molong Central School,148.86389,-33.098011,1
+Bowral High School,150.423432,-34.488816,1
+Moss Vale High School,150.385294,-34.551483,1
+Warilla High School,150.857991,-34.563813,1
+Peak Hill Central School,148.192111,-32.728855,3
+Portland Central School,149.979653,-33.354772,3
+Trangie Central School,147.979305,-32.032544,3
+Bombala High School,149.231927,-36.917647,1
+Eden Marine High School,149.90731,-37.055009,1
+Tullamore Central School,147.565993,-32.636788,1
+Ulladulla High School,150.47024,-35.35821,1
+Keira High School,150.88651,-34.405282,1
+Albion Park High School,150.773359,-34.576702,1
+Wilcannia Central School,143.37591,-31.558478,3
+Yeoval Central School,148.649673,-32.754375,1
+Bulli High School,150.921143,-34.337247,0
+Dubbo School of Distance Education,148.638967,-32.242937,1
+"Denison College of Secondary Education, Bathurst High Campus",149.569679,-33.413383,1
+Broken Hill High School,141.456986,-31.960105,1
+Orange High School,149.084361,-33.280352,1
+Parkes High School,148.180256,-33.138824,1
+Cowra High School,148.688347,-33.814136,1
+The Henry Lawson High School,148.163449,-33.902722,1
+Condobolin High School,147.143195,-33.091828,3
+Coonabarabran High School,149.285117,-31.283104,1
+Canobolas Rural Technology High School,149.121741,-33.291759,3
+Coonamble High School,148.391351,-30.955763,3
+Walgett Community College - High School,148.118967,-30.027113,3
+Willyama High School,141.473022,-31.936552,1
+Coomealla High School,142.060295,-34.09598,3
+"Denison College of Secondary Education, Kelso High Campus",149.61444,-33.410541,1
+Canowindra High School,148.670951,-33.55892,1
+Gulgong High School,149.540002,-32.360172,1
+Oberon High School,149.861132,-33.701691,1
+The Ponds High School,150.89764,-33.7033,0
+Goodooga Central School,147.455532,-29.115865,3
+Southern Cross School of Distance Education,153.5858174,-28.84975642,1
+Gulargambone Central School,148.475758,-31.33224,3
+Lindfield Learning Village,151.160509,-33.790062,0
+Lightning Ridge Central School,147.978614,-29.425211,3
+Mendooran Central School,149.122445,-31.818731,1
+Menindee Central School,142.41329,-32.393368,3
+Figtree High School,150.855197,-34.438352,1
+Lake Illawarra High School,150.850426,-34.541828,1
+Warren Central School,147.836503,-31.705114,3
+Lithgow High School,150.166271,-33.485739,1
+Mudgee High School,149.583627,-32.597793,1
+Forbes High School,148.011352,-33.364596,1
+Wellington High School,148.947815,-32.546677,3
+Kandos High School,149.974588,-32.855738,1
+Gilgandra High School,148.666529,-31.703431,1
+Nyngan High School,147.188882,-31.561368,3
+Bourke High School,145.948761,-30.091467,3
+Cobar High School,145.827881,-31.501643,1
+Blayney High School,149.251081,-33.531048,1
+Narromine High School,148.242585,-32.229655,3
+Cammeraygal High School,151.20304,-33.832162,0
+Finigan School of Distance Education,149.221512,-35.354009,0
+Armidale Secondary College,151.650348,-30.519371,1
+Tottenham Central School,147.3521,-32.245635,1
+Trundle Central School,147.709198,-32.925365,1
