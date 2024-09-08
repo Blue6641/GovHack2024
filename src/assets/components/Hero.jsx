@@ -7,10 +7,7 @@ const Hero = () => {
         <h1 class="text-3xl font-semibold text-black lg:text-4xl">
           NSW Senior Highschools based on Socio-economic Metrics
         </h1>
-        <p class="mt-6 text-gray-800">
-          The project looks at several key metrics to determine highschools who
-          might
-        </p>
+
         <button class="px-5 py-2 mt-6 text-sm font-medium leading-5 text-center text-white capitalize bg-blue-600 rounded-lg hover:bg-blue-500 lg:mx-0 lg:w-auto focus:outline-none">
           Go to Map
         </button>
