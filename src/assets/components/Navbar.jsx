@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Burger from "../icons/burger-menu";
-import Close from "../icons/close";
+import Burger from "../icons/burger-menu.jsx";
+import Close from "../icons/close.jsx";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

@@ -1,10 +1,10 @@
 //import logo from './logo.svg';
 import "./App.css";
-import Navbar from "./assets/components/Navbar";
-import Hero from "./assets/components/Hero";
-import Demark from "./assets/components/Demark";
-import Ideas from "./assets/components/Ideas";
-import MapComponent from "./assets/components/Map";
+import Navbar from "./assets/components/Navbar.jsx";
+import Hero from "./assets/components/Hero.jsx";
+import Demark from "./assets/components/Demark.jsx";
+import Ideas from "./assets/components/Ideas.jsx";
+import MapComponent from "./assets/components/Map.jsx";
 
 function App() {
   return (
