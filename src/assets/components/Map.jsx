@@ -42,7 +42,7 @@ const MapComponent = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    Papa.parse("/src/data/map_data.csv", {
+    Papa.parse("/map_data.csv", {
       download: true,
       header: true,
       complete: (result) => {
